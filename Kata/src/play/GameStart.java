@@ -13,7 +13,7 @@ public class GameStart {
 		System.out.println("============================== Welcome to KATA TENNIS GAME ============================================");
 		System.out.println("=======================================================================================================");
 		System.out.println("=======================================================================================================");
-		System.out.println("Game Rules");
+		System.out.println("Rules To PLAY");
 		System.out.println("Write 1 for player 1 scoring and 2 for player 2 scoring");
 		
 		Scanner sc = new Scanner(System.in);
