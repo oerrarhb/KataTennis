@@ -9,7 +9,9 @@ public class GameStart {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("=======================================================================================================");
+		System.out.println("=======================================================================================================");
 		System.out.println("============================== Welcome to KATA TENNIS GAME ============================================");
+		System.out.println("=======================================================================================================");
 		System.out.println("=======================================================================================================");
 		System.out.println("Game Rules");
 		System.out.println("Write 1 for player 1 scoring and 2 for player 2 scoring");
